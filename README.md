@@ -30,3 +30,5 @@ __Source Files__
  - \___DATE\___	Today’s date
  - \___TIME\___	The current time
  - \___YEAR\___	The current four-digit year
+ 
+http://www.bobmccune.com/2012/03/04/creating-custom-xcode-4-file-templates/
